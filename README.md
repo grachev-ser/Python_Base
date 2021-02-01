@@ -1,2 +1,3 @@
 # Python_Base
-Основы языка Python
+
+Tasks for the course basics of the Python language
